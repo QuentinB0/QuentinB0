@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 --------------
 My name is Quentin Barat
 ### Web Developper
---------------
+
 I learn to code since 3 months at CCI Formation in Lyon.
 
 *   🌍  I'm based in Lyon, France
