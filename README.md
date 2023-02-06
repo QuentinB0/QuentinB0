@@ -6,6 +6,6 @@ Web Developper
 --------------
 I learn to code since 3 months at CCI Formation in Lyon.
 
-*   🌍  I'm based in Lyon
+*   🌍  I'm based in Lyon, France
 *   🧠  I'm learning HTML, CSS, JavaScript, PHP
 *   ⚡  I'm Batman
