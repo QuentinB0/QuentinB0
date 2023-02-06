@@ -2,7 +2,6 @@
 
 # My name is Quentin Barat
 ### Web Developper
-
 I learn to code since 3 months at CCI Formation in Lyon.
 
 *   🌍  I'm based in Lyon, France
