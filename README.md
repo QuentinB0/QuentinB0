@@ -1,10 +1,13 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ## My name is Quentin Barat
 ### Web Developper
-Recently graduated from CCI Formation in Lyon 
-🌍  I'm based in Lyon - France
-🧠  I'm learning HTML, CSS, JavaScript, PHP, Symfony, VueJs, NodeJs
-⚡  I'm Batman
+Recently graduated from CCI Formation in Lyon
+
+🌍 I'm based in Lyon - France
+
+🧠 I'm learning HTML, CSS, JavaScript, PHP, Symfony, VueJs, NodeJs
+
+⚡ I'm Batman
 
 ### Skills
 
